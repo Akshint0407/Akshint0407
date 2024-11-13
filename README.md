@@ -10,7 +10,7 @@ I am a technology enthusiast with a strong foundation in Python, DBMS, and Artif
 - **Project Development**: Adept at managing and contributing to projects, from ideation to implementation.
 
 ## Projects & Contributions  🔨
-- **SAR Image Colorization for Comprehensive Insight using Deep Learning Model**: Currently working on this deep learning-based project to enhance SAR images.
+- **SAR Image Colorization for Comprehensive Insight using Deep Learning Model**: Participated on a hackathon with this deep learning-based project to enhance SAR images.
 - **Gym Membership Management System (DBMS)**: Developed a complete gym membership system using Python, Tkinter, and MySQL.
 - **Speech-to-Text with GUI**: Designed a speech-to-text program with a GUI interface, which allows speech transcription and word search functionalities.
 - **Firefighter Fighting Robot**: Developed a prototype robot in my first year, designed to simulate firefighter tasks.
