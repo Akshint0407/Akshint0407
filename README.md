@@ -1,6 +1,5 @@
 # 💫 About Me:
 
-## Overview 👨‍💻
 # Hi there! 👋 I'm Akshint Varma  
 
 🚀 **Aspiring AI & Data Science Enthusiast**  
