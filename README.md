@@ -1,3 +1,4 @@
+<div align="center">
 # 💫 About Me:
 
 # Hi there! 👋 I'm Akshint Varma  
@@ -41,6 +42,7 @@ Feel free to explore my repositories to see what I've been working on. Let's con
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Akshint-Varma) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akshintv7@gmail.com) [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF.svg?logo=kaggle&logoColor=white)](https://www.kaggle.com/akshintvarma) [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/u/Akshint0407/)
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Akshint0407&color=ff69b4&label=Visitors%20are%20here!&style=plastic)<div align="center">
+![Visitor Count](https://komarev.com/ghpvc/?username=Akshint0407&color=red&label=Visitors%20are%20here!&style=plastic)
 
 
 # 📊 GitHub Stats:
