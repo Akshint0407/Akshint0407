@@ -45,7 +45,7 @@ Feel free to explore my repositories to see what I've been working on. Let's con
 ## 🌐 Socials:
 <div align="center">
   <a href="https://linkedin.com/in/Akshint-Varma" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Logo">  
   </a>
   <a href="mailto:akshintv7@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D93025?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
