@@ -44,9 +44,20 @@ Feel free to explore my repositories to see what I've been working on. Let's con
 
 ## 🌐 Socials:
 <div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"width=400)](https://linkedin.com/in/Akshint-Varma) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"width=400)](mailto:akshintv7@gmail.com) [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF.svg?logo=kaggle&logoColor=white"width=400)](https://www.kaggle.com/akshintvarma) [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116.svg?logo=leetcode&logoColor=white"width=400)](https://leetcode.com/u/Akshint0407/)
+  <a href="https://linkedin.com/in/Akshint-Varma" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:akshintv7@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D93025?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://www.kaggle.com/akshintvarma" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle">
+  </a>
+  <a href="https://leetcode.com/u/Akshint0407/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
+  </a>
 </div>
+
 
 # 📊 GitHub Stats:
 <div align="center">
