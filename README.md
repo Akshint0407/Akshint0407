@@ -10,14 +10,11 @@
 🚀 **Aspiring AI & Data Science Enthusiast**  
 Dedicated to leveraging technology to address real-world challenges.
 
-## 💼 Professional Interests  
+## Interests 🎓
 - Collaborating on **AI-driven projects** that solve complex problems  
 - Engaging with communities to **share knowledge** and **learn from peers**
-
-## Interests 🎓
-- **Technology Innovations**: Passionate about exploring new technologies and finding innovative solutions to real-world problems.
-- **Continuous Learning**: Always looking to improve my skills and expand my knowledge in AI, data science, and software development.
-- **Problem-Solving**: Thrives in tackling complex challenges and finding efficient, practical solutions.
+- Always looking to improve my skills and expand my knowledge in **AI**, **data science**, and **software development**.
+- Thrives in tackling complex challenges and finding **efficient**, **practical solutions**.
 
 ## ⚡ Fun Fact  
 When I'm not coding, you can find me **exploring the latest tech trends** or indulging in **a good book**.  
