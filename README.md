@@ -17,9 +17,9 @@
 - Thrives in tackling complex challenges and finding **efficient**, **practical solutions**.
 
 ## Fun Fact ⚡
-When I'm not coding, you can find me **exploring the latest tech trends** or indulging in **a good book**.  
+- When I'm not coding, you can find me **exploring the latest tech trends** or indulging in **a good book**.  
 
-Feel free to explore my repositories to see what I've been working on. Let's connect and collaborate on exciting projects! 🚀  
+- Feel free to explore my repositories to see what I've been working on. Let's connect and collaborate on exciting projects! 🚀  
 
 
 ## 💻 Tech Stack:
